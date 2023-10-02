@@ -9,6 +9,6 @@ A passionate Backend developer | Computer Science Student .
 **Connect with me :**
 
 <a href="www.linkedin.com/in/alonso-ulloa-vizquerra-1a9355250/" target="_blank">
-  <img align="left" alt="alonso | LinkedIn" width="30px" 
-  src="https://raw.githubusercontent.com/alonsoulloa-master/assets/linkedin.svg" />
+  <img align="left" alt="AlonsoUlloa | LinkedIn" width="30px" 
+  src="https://raw.githubusercontent.com/alonsoulloa-master/alonsoulloa-master/assets/linkedin.svg" />
 </a>
